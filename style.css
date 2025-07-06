@@ -1,0 +1,130 @@
+* {
+    font-size: 25pt;
+    text-align: center;
+    padding: 0;
+    margin: 0px;
+}
+
+body {
+  margin: .0px 0px 0px 0px;
+  padding: 5px;
+  font-size: 25px;
+  background-image: url(/3b32a270947b5ef47133dca499e43b9d.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.header-element {
+  background-image: url(/72916a8552a8f511b51057a16d02abfc.jpg);
+  color: #FFFFFF;
+  margin-top: 0;
+  padding: 15px 0 10px 0px;
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+input {
+  background-image: url(/02803f58b9906d3b0b35515d28ea490d.jpg);
+  color: #fff;
+  border: solid .2px #B3B3B3;
+  box-shadow: -1px -3px 9px #fff;
+  border-radius: 20px;
+  padding-top: 2px;
+  padding-bottom: 300px;
+  
+  text-shadow: 0px -0px 2px #00FBF2;
+  text-align: center;
+
+}
+
+img {
+  margin: 1px 20px 120px 20px;
+  height: 400px;
+  width: 250px;
+  border: solid .7px #DEFFFFFC;
+  border-radius: 15px;
+  box-shadow: 4px 4px 9px #000;
+}
+
+.div-1{
+  padding: 50px 0 20px 0;
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #F1F3F3FC;
+  box-shadow: 2px -0px 7px #AFFFEF;
+  text-shadow: 0px -0px 2px #000000;
+}
+
+.div-2{
+  padding: 50px 0 20px 0;
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #F1F3F3FC;
+  box-shadow: 2px -0px 7px #AFFFEF;
+  text-shadow: 0px -0px 2px #000000;
+}
+
+.div-3{
+  padding: 50px 0 20px 0;
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #F1F3F3FC;
+  box-shadow: 2px -0px 7px #AFFFEF;
+  text-shadow: 0px -0px 2px #000000;
+}
+
+.div-4{
+  padding: 50px 0 20px 0;
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #F1F3F3FC;
+  box-shadow: 2px -0px 7px #AFFFEF;
+  text-shadow: 0px -0px 2px #000000;
+}
+
+.div-5 {
+  padding: 50px 0 20px 0;
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #F1F3F3FC;
+  box-shadow: 2px -0px 7px #AFFFEF;
+  text-shadow: 0px -0px 2px #000000;
+}
+
+.div-6 {
+  padding: 50px 0 20px 0;
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #F1F3F3FC;
+  box-shadow: 2px -0px 7px #AFFFEF;
+  text-shadow: 0px -0px 2px #000000;
+}
+
+.div-7 {
+  padding: 50px 0 20px 0;
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #F1F3F3FC;
+  box-shadow: 2px -0px 7px #AFFFEF;
+  text-shadow: 0px -0px 2px #000000;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+button {
+  background-color: #7982FE;
+  border-radius: 15px;
+  border: .3px solid #7982FE75;
+  margin: 50px 0 50px 0;
+  padding: 10px;
+}
